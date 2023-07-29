@@ -1,0 +1,19 @@
+div {
+    display: block;
+}
+h1 {
+    display: block;
+}
+form {
+    display: block;
+}
+section {
+    display: subgrid;
+}
+body {
+    background-color: grey;
+}
+.btn {
+    display: block;
+    text-align: right;
+}
